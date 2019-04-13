@@ -1,2 +1,2 @@
 # apollo-i-backend
-Apollo I is A Video Content Management System for Qin Zhou No.1 School (Backend).
+Apollo I is a Video Content Management System for Qin Zhou No.1 Middle School (Backend).
